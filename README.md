@@ -13,6 +13,7 @@ L'application est accessible en ligne à cette adresse :
 
 🔗 [NG Pokémon App](https://ng-pokemon-app-38239.web.app/)
 
+![Demo1](./chrome-capture-2025-1-30 (1).gif)
 ---
 
 ## 🛠️ Installation & Exécution
