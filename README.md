@@ -1,27 +1,82 @@
-# NgPokemonApp
+# NG Pokémon App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.9.
+## 🎮 Introduction
 
-## Development server
+Bienvenue sur **NG Pokémon App**, une application développée avec **Angular** permettant de gérer une collection de Pokémon !
+Ce projet est un exercice d'entraînement visant à explorer les fonctionnalités d'Angular, telles que le routing, les services et les formulaires réactifs.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+## 🌟 Démo
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+L'application est accessible en ligne à cette adresse :
 
-## Build
+🔗 [NG Pokémon App](https://ng-pokemon-app-38239.web.app/)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
+## 🛠️ Installation & Exécution
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### 📌 Pré-requis
 
-## Running end-to-end tests
+- Node.js et npm installés sur votre machine.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### 🚀 Étapes d'installation
 
-## Further help
+1️⃣ Cloner le projet :
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+```shell
+git clone https://github.com/SimonDesc/ng-pokemon-app.git
+cd ng-pokemon-app
+```
+
+2️⃣ Installer les dépendances :
+
+```shell
+npm install
+```
+
+3️⃣ Lancer l'application en mode développement :
+
+```shell
+ng serve
+```
+
+4️⃣ Ouvrir l'application dans un navigateur :
+
+```
+http://localhost:4200/
+```
+
+---
+
+## 📋 Fonctionnalités
+
+🔹 Affichage d’une liste de Pokémon avec leurs statistiques  
+🔹 Détail d’un Pokémon avec une page spécifique  
+🔹 Recherche d’un Pokémon par son nom  
+🔹 Ajout, modification et suppression de Pokémon  
+🔹 Gestion des types de Pokémon avec un design inspiré du Pokédex  
+
+---
+
+## 🏗️ Technologies utilisées
+
+- ⚡ **Angular**
+- 🎨 **Bootstrap** pour le design
+- 🔥 **Firebase** pour l’hébergement
+
+---
+
+## ✅ Améliorations futures
+
+🔜 Ajout d'une authentification utilisateur  
+🔜 Intégration d'une API pour récupérer des données en temps réel  
+🔜 Ajout d'une animation lors de la capture d'un Pokémon  
+
+---
+
+## ✨ Auteur
+
+👤 **SimonDesc**  
+📌 [GitHub](https://github.com/SimonDesc)
