@@ -68,14 +68,6 @@ http://localhost:4200/
 
 ---
 
-## ✅ Améliorations futures
-
-🔜 Ajout d'une authentification utilisateur  
-🔜 Intégration d'une API pour récupérer des données en temps réel  
-🔜 Ajout d'une animation lors de la capture d'un Pokémon  
-
----
-
 ## ✨ Auteur
 
 👤 **SimonDesc**  
